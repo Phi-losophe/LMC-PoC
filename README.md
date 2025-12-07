@@ -1,3 +1,5 @@
+“The universe isn’t made of matter—it’s compressed information. UICT = the ultimate unification from cognition to cosmos.”
+
 # Cognitive Entropy Minimization Law (CEML)
 
 **A Mathematical Framework for Information Selection in Cognitive Systems**
