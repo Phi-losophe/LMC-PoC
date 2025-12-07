@@ -36,3 +36,27 @@ Où :
 ```bash
 git clone [https://github.com/votre-user/lmc-law.git](https://github.com/votre-user/lmc-law.git)
 cd lmc-law
+
+## 📚 Références
+
+- Friston, K. (2010). *The free-energy principle: a unified brain theory?* Nature Reviews Neuroscience, 11, 127–138.
+- Rissanen, J. (1978). *Modeling by shortest data description.* Automatica, 14(5), 465–471.
+- Shannon, C. E. (1948). *A Mathematical Theory of Communication.* Bell System Technical Journal, 27, 379–423, 623–656.
+
+## ⚠️ Limitations et Approximations
+
+- **Approximation de l’entropie :** l’usage de la compression zlib/DEFLATE est un proxy pour la complexité de Kolmogorov ; reflète les tendances globales mais n’est pas exact.  
+- **Constante ε :** empêche la division par zéro si H = 0. Valeur par défaut = 1e-6.  
+- **Mesure de cohérence :** basée sur la similarité cosinus des embeddings vectoriels ; précision dépend de la qualité des embeddings et du prétraitement du texte.  
+- **Validité générale :** PoC pour démontrer le principe LMC ; ne modélise pas parfaitement le cerveau humain ni tous les LLM existants.
+
+## 🛠️ Exemple d'utilisation rapide
+
+```python
+from lmc_model import calculateScore
+
+context = "Le ciel est bleu"
+candidate = "Le ciel est clair"
+score = calculateScore(context, candidate)
+print(f"Score LMC : {score}")
+
