@@ -36,6 +36,7 @@ Où :
 ```bash
 git clone [https://github.com/votre-user/lmc-law.git](https://github.com/votre-user/lmc-law.git)
 cd lmc-law
+```
 
 ## 📚 Références
 
