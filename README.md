@@ -639,8 +639,8 @@ Contributions are welcome! Areas of interest:
 ## 📧 Contact
 
 **Bryan Ouellette**  
-Repository: [GitHub Link]  
-Email: [Your Email]
+Repository: git clone https://github.com/Phi-losophe/UICT_PoC.git 
+Email: lmc.theory@gmail.com
 
 ---
 
@@ -1316,13 +1316,14 @@ Remerciements spéciaux à:
 
 **🎓 Citation Suggérée:**
 
-```bibtex
+
 @misc{ouellette2025ceml,
   author = {Ouellette, Bryan},
   title = {Cognitive Entropy Minimization Law: A Mathematical Framework for Information Selection in Cognitive Systems},
   year = {2025},
-  publisher = {GitHub},
-  howpublished = {\url{https://github.com/[votre-repo]}}
+  publisher = Repository: git clone https://github.com/Phi-losophe/UICT_PoC.git 
+  Email: lmc.theory@gmail.com,
+  
 }
 
 ```
