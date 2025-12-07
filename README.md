@@ -2,11 +2,7 @@
 Proof of Concept et tests pour la Loi de Minimisation de l'Entropie Cognitive
 
 🧠 LMC - Cognitive Entropy Minimization Law
-Afficher l'image
-Afficher l'image
-Afficher l'image
-Afficher l'image
-Afficher l'image
+
 
 A unified mathematical framework for understanding cognitive selection as thermodynamic optimization
 
